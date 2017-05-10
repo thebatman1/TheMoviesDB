@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\VolleyProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidProjects\VolleyProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d81530f8f5372be9bcbc33265a80e69905937a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\VolleyProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17c56ec84c7c9306c53cb546a8e9eff03c92d024">
+        <dex dex="D:\AndroidProjects\VolleyProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_761a209ee91e1903cff1cda8e37220f7c2e73604\classes.dex" />
+    </item>
+
+</items>

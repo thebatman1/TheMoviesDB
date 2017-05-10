@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Volley Project</string>
+    <string name="loading">Loading....</string>
+    <string name="release_date">Release Date : </string>
+    <string name="watch">WATCH TRAILER!</string>
+    <string name="genre">Genre:</string>
+    <string name="description">Description:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="production">Production Companies:</string>
+</resources>
